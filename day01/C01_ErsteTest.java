@@ -18,7 +18,7 @@ public class C01_ErsteTest {
         );
         Thread.sleep(2000);
         driver.navigate().to("http://www.youtube.com/");
-        Thread.sleep(2000);
+        Thread.sleep(2001);
         driver.navigate().back();
         Thread.sleep(2000);
 
